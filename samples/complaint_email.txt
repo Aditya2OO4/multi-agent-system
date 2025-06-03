@@ -1,0 +1,9 @@
+Subject: Unhappy with service
+From: customer@example.com
+
+Dear Support,
+I'm very disappointed with my recent order #12345. It arrived 2 weeks late and was damaged.
+I expect a full refund immediately or I'll be forced to take my business elsewhere.
+
+Regards,
+Angry Customer

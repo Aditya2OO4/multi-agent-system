@@ -1,0 +1,10 @@
+{
+  "invoice_id": "INV-2023-456",
+  "total": 12500.00,
+  "due_date": "2023-12-31",
+  "customer": "Example Corp",
+  "items": [
+    {"description": "Product A", "quantity": 10, "price": 1000},
+    {"description": "Service B", "quantity": 1, "price": 2500}
+  ]
+}
